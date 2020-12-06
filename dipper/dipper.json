@@ -1,8 +1,10 @@
 {
   "response": [
     {
-     "datetime": 1605429189,
-     "filename": "YAAP-11-Alpha-yaap_dipper-20201206.zip"
+     "datetime": 1607230568,
+     "filename": "YAAP-11-Alpha-yaap_dipper-20201206.zip",
+     "url": "https://dl.akr-developers.com/?file=xiaomi/dipper/YAAP/20201206-GAPPS/YAAP-11-Alpha-yaap_dipper-20201206.zip",
+     "md5url": "https://dl.akr-developers.com/?file=xiaomi/dipper/YAAP/20201206-GAPPS/YAAP-11-Alpha-yaap_dipper-20201206.zip.md5sum"
     }
   ]
 }
